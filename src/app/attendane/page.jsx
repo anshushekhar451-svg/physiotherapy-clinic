@@ -1,1 +1,0 @@
-import { getPatientAttendance, markAttendance } from '../../services/attendanceService';
