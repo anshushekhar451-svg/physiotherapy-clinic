@@ -1,1 +1,1 @@
-import { supabase } from '../lib/supabase.ts';
+import { supabase } from '../lib/supabase';
